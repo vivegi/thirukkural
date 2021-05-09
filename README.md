@@ -38,3 +38,18 @@ The [`mockups` folder](./mockups) has some examples of how to organize the conte
 
 See the `mockups` folder for an example for [Kural #291](./mockups/291/index.html). 
 
+> **Tip:**
+> To locally serve the HTML files, you can use the NodeJS module `http-server`
+> First install NodeJS. Follow [instructions here](https://nodejs.org/en/download/).
+> 
+> Install `http-server` module [using npm](https://www.npmjs.com/package/http-server).
+> 
+> You can then run the web server locally from the `mockups` folder
+
+<img src="./mockups/screenshots/running_http_server_screenshot.jpg" alt="Running http-server locally" width="400px"/>
+
+![Homepage mockup screenshot](./mockups/screenshots/homepage_screenshot.jpg "Homepage mockup screenshot")
+
+![Verse 291 screenshot](./mockups/screenshots/verse_291_screenshot.jpg "Verse 291 screenshot")
+
+
