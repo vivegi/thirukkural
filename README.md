@@ -15,6 +15,9 @@ We probably need more roles. This is just a starting list.
 ## Targeted Delivery formats
 Physical flash cards, eBook, print book, Website, App to start with.
 
+### Flashcard example
+<img src="./mockups/screenshots/Web capture_10-5-2021_061_127.0.0.1.jpeg" alt="Flashcard sample">
+
 This is a massive project. If you love Tamil language and classical works, have the skills and would like to volunteer or contribute in some form, please mention it in the comment or InMail me. (https://linkedin.com/in/vvgiri) 
 
 This GitHub repository is for managing the collaboration workspace and artefacts.
