@@ -85,6 +85,13 @@ Refer to [data.xml](./mockups/291/data.xml) for an example of the XML for a sing
 </data>
 ```
 
+We intend to have the semantic content in the XML files and generate HTML renditions for various outputs viz. flash card, eBook, print book (eg: PDF), website etc.,
+
+> Note: We need people with expertise in XML data management, schema design, 
+> stylesheet creation (such as XSLT) etc., This technical stream of actitivies 
+> can run in parallel with the design/creative work with some minimal coordination
+> between the two streams.
+
 There are many classical commentaries (உரை) that are available. We will use the following:
 
 1. பரிமேலழகர் உரை: This is the classical commentary (c. 13<sup>th</sup> century CE) by [Parimelazhagar](https://en.wikipedia.org/wiki/Parimelalhagar).
