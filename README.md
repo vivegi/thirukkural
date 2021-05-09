@@ -52,4 +52,47 @@ See the `mockups` folder for an example for [Kural #291](./mockups/291/index.htm
 
 ![Verse 291 screenshot](./mockups/screenshots/verse_291_screenshot.jpg "Verse 291 screenshot")
 
+### XML Spec
 
+Refer to [data.xml](./mockups/291/data.xml) for an example of the XML for a single verse.
+
+```
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <verse number="291">வாய்மை எனப்படுவது யாதெனின் யாதொன்றும்<br>தீமை இலாத சொலல்.</verse>
+  <illustration href="291.jpg"></illustration>
+  <explanations>
+    <explanation lang="ta-IN" label="பரிமேலழகர் உரை">
+      <text>வாய்மை எனப்படுவது யாது எனின் - மெய்ம்மை என்று சிறப்பித்துச் சொல்லப்படுவது யாது என்று வினவின், தீமை யாதொன்றும் இலாத சொலல் - அது பிறிதோருயிர்க்குத் தீங்கு சிறிதும் பயவாத சொற்களைச் சொல்லுதல். ('தீமை யாதொன்றும் இலாத' என இயையும். 'எனப்படுவது' என்பது 'ஊர் எனப்படுவது உறையூர்' என்றாற் போல நின்றது. இதனான் நிகழ்ந்தது கூறல் என்பது நீக்கப்பட்டது. அது தானும், தீங்கு பயவாதாயின் மெய்ம்மையாம் : பயப்பின் பொய்ம்மையாம் என்பது கருத்து.)</text>
+      <translation lang="en-US">To be done.</translation>
+    <explanation>
+    <explanation lang="ta-IN" label="கலைஞர் உரை">
+      <text>பிறருக்கு   எள்முளையளவு   தீமையும்  ஏற்படாத  ஒரு  சொல்லைச் சொல்வதுதான் வாய்மை எனப்படும்.</text>
+      <translation lang="en-US">To be done.</translation>
+    <explanation>
+    <explanation lang="ta-IN" label="சாலமன் பாப்பையா உரை">
+      <text>உண்மை என்று சொல்லப்படுவது எது என்றால், எவர்க்கும் எத்தகைய தீங்கையும் தராத சொற்களைச் சொல்வதே ஆகும்.</text>
+      <translation lang="en-US">To be done.</translation>
+    </explanation>
+    <explanation lang="ta-IN" label="திருக்குறள் எளிய உரை">
+      <text>பிறருக்கு தீமை ஏற்படாத  ஒரு  சொல்லைச் சொல்வதே வாய்மை ஆகும்.</text>
+      <translation lang="en-US">Being truthful requires speaking words that do not harm others.</translation>
+    </explanation>
+  </explanations>
+</data>
+```
+
+There are many classical commentaries (உரை) that are available. We will use the following:
+
+1. பரிமேலழகர் உரை: This is the classical commentary (c. 13<sup>th</sup> century CE) by [Parimelazhagar](https://en.wikipedia.org/wiki/Parimelalhagar).
+2. கலைஞர் உரை: This is the contemporary commentary by the late Kalignar M. Karunanidhi, Tamil scholar and politician.
+3. சாலமன் பாப்பையா உரை: This is the contemporary commentary by the Tamil scholar and teacher, Solomon Pappiah.
+
+In addition, we shall be creating the simple commentary in multiple languages:
+4. திருக்குறள் எளிய உரை: This is the simple commentary and explanation from this project.
+
+> **Note:** We need experts in Tamil language who can read these commentaries and distill
+> them into simple Tamil explanation. We also need bi-lingual experts who know Tamil and their
+> native language and can do the translation into their language. We also need editors who can
+> proof-read, edit, correct and make suggestions to ensure the final outcome is good.
+> Our goal is to ensure that the work is accessible to children and youth.
