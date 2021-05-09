@@ -1,0 +1,57 @@
+body {
+    background-color: #EEF2F7;
+    align-content: center;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 2rem;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 5px; /* 5px rounded corners */
+    width: 50%;
+    margin: 5px auto;
+}
+
+.card-body {
+    padding: 5px;
+}
+  
+/* Add rounded corners to the top left and the top right corner of the image */
+img .ill {
+    border-radius: 5px 5px 0 0;
+    width: 100%;
+    height: auto;
+    display: inline;
+}
+
+p {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1rem;
+}
+
+.verse {
+    font-family: 'Kavivanar', cursive;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.ta-exp {
+    text-align: center;
+    font-family: 'Baloo Thambi 2', cursive;
+    font-weight: normal;
+    font-size: 1.2rem;
+}
+
+.en-exp {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.2rem;
+    font-weight: normal;
+}
+
