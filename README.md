@@ -18,3 +18,23 @@ Physical flash cards, eBook, print book, Website, App to start with.
 This is a massive project. If you love Tamil language and classical works, have the skills and would like to volunteer or contribute in some form, please mention it in the comment or InMail me. (https://linkedin.com/in/vvgiri) 
 
 This GitHub repository is for managing the collaboration workspace and artefacts.
+
+## Specifications
+
+### Mockups folder
+
+The [`mockups` folder](./mockups) has some examples of how to organize the content. We will use the standard Kural numbering (from the original book). Each verse shall get its own folder that contains the following files:
+
++ parent_folder
+  + verse_number
+    + verse_number.jpg  (The illustration for the verse)
+    + data.xml          (The verse semantic content)
+    + index.html        (The verse document)
+  + another verse
+  + ...
+  + css
+    + style.css
+  + index.html   (The root document)
+
+See the `mockups` folder for an example for [Kural #291](./mockups/291/index.html). 
+
