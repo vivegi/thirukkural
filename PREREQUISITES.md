@@ -1,6 +1,11 @@
 # The Tirukkuṟaḷ (திருக்குறள்) project - Prerequisites
 This document gives a list of required reading that would be useful for all collaborators.
 
+## GitHub Introduction
+This is a beginner's introduction to GitHub. Recommended reading for everyone in this project.
+
+[GitHub Hello World](https://guides.github.com/activities/hello-world/)
+
 ## Markdown
 Markdown is a lightweight and easy-to-use syntax for styling all forms of writing on the GitHub platform.
 
